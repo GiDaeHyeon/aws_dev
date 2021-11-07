@@ -4,6 +4,7 @@
     <list default="true" id="18b20eed-24f6-4331-a523-40693c6e49b9" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloudformation/helloworld-cloudformation-template.py" beforeDir="false" afterPath="$PROJECT_DIR$/cloudformation/helloworld-cloudformation-template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudformation/helloworld-cloudformation.template" beforeDir="false" afterPath="$PROJECT_DIR$/cloudformation/helloworld-cloudformation.template" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <updated>1635939494474</updated>
       <workItem from="1635939496560" duration="655000" />
       <workItem from="1635940889589" duration="13448000" />
-      <workItem from="1636270092163" duration="443000" />
+      <workItem from="1636270092163" duration="4624000" />
     </task>
     <servers />
   </component>
